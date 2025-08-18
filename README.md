@@ -1,7 +1,7 @@
 # PublicBulletinBoardSharing
 Virtual Bulletin Board allowing users to share their memories to the world.
 
-# PinME!
+# PicASpot or PicSpot or PinMe
 ## Pin my picture onto the board!
 
 ## Main Idea
